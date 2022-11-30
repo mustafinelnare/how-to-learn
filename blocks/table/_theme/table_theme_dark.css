@@ -1,6 +1,3 @@
 .table_theme_dark {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  margin: 0 auto 90px auto;
+  margin: 0 auto;
 }
