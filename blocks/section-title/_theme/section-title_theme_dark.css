@@ -1,7 +1,6 @@
 .section-title_theme_dark {
   position: relative;
-  margin: 0 auto;
+  margin: 0 auto 20px auto;
   color: white;
-  opacity: 0.999;
   z-index: 1;
 }

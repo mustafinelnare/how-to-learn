@@ -1,5 +1,5 @@
 @import url(../vendor/normalize.css);
-@import url(../blocks/root/page.css);
+@import url(../blocks/page/page.css);
 @import url(../blocks/rotation/rotation.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/logo/logo.css);
