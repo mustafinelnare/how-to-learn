@@ -6,6 +6,6 @@
 **Что используется в проекте?**
 
 ```
-- HTML / CSS / методология и организация файлов по БЭМ/ анимации
+- HTML / CSS / методология и организация файлов по БЭМ / анимации
 ```
-Ссылка на [GitHub Pages:]()
+Ссылка на [GitHub Pages:](https://mustafinelnare.github.io/how-to-learn/index.html)
