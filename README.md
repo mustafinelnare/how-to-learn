@@ -1,11 +1,11 @@
-### Проект **Научиться учиться**
+### Project **How to Learn**
 
 
-Вёрстка одностраничного сайта для сдачи проектной работы в [Яндекс Практикум](https://practicum.yandex.ru/)<br>
+Project work in [Yandex Practicum](https://practicum.yandex.ru/)<br>
 
-**Что используется в проекте?**
+**What used in the project?**
 
 ```
-- HTML / CSS / методология и организация файлов по БЭМ / анимации
+- HTML / CSS / BEM / Animations
 ```
-Ссылка на [GitHub Pages:](https://mustafinelnare.github.io/how-to-learn/index.html)
+Link to [GitHub Pages:](https://mustafinelnare.github.io/how-to-learn/index.html)
