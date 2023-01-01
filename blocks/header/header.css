@@ -8,3 +8,21 @@
   background-color: #f2f2f2;
   z-index: 0;
 }
+
+@media screen and (max-width: 1024px) {
+  .header {
+
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .header {
+
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .header {
+
+  }
+}
