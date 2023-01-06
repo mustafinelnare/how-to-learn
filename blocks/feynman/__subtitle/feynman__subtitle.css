@@ -17,5 +17,6 @@
 @media screen and (max-width: 425px) {
   .feynman__subtitle {
     font-size: 25px;
+    margin: 45px auto 0;
   }
 }

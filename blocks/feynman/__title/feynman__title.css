@@ -19,5 +19,6 @@
 @media screen and (max-width: 425px) {
   .feynman__title {
     font-size: 60px;
+    padding-top: 60px;
   }
 }
