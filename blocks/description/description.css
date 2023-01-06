@@ -1,3 +1,9 @@
 .description {
   margin-top: 100px;
 }
+
+@media screen and (max-width: 768px) {
+  .description {
+    margin-top: 60px;
+  }
+}

@@ -6,3 +6,18 @@
   font-weight: normal;
   margin: 0 auto;
 }
+
+@media screen and (max-width: 1024px) {
+  .two-columns__main-text {
+    max-width: 784px;
+    min-width: 0;
+    width: 80%;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .two-columns__main-text {
+    font-size: 18px;
+    line-height: 25px;
+  }
+}

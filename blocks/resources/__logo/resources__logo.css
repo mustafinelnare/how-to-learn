@@ -1,4 +1,4 @@
 .resources__logo {
-  width: 270px;
-  height: 38px;
+  max-width: 270px;
+  max-height: 38px;
 }

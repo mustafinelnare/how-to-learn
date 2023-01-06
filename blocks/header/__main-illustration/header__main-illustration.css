@@ -6,3 +6,11 @@
   right: 0;
   bottom: 0;
 }
+
+@media screen and (max-width: 768px) {
+  .header__main-illustration {
+    max-width: 765px;
+    max-height: 688px;
+    width: 100%;
+  }
+}

@@ -5,3 +5,9 @@
   width: 80%;
   margin: 0 auto;
 }
+
+@media screen and (max-width: 425px) {
+  .two-columns {
+    flex-direction: column;
+  }
+}

@@ -5,4 +5,11 @@
   font-size: 60px;
   font-weight: 600;
   margin: 0 auto 20px auto;
+  text-align: center;
+}
+
+@media screen and (max-width: 425px) {
+  .section-title {
+    font-size: 38px;
+  }
 }

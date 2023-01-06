@@ -7,3 +7,15 @@
 .video__iframe:last-child {
   margin-left: 20px;
 }
+
+@media screen and (max-width: 1024px) {
+  .video__iframe {
+    max-width: 515px;
+    max-height: 316px;
+    width: 100%;
+    margin: 10px auto 0;
+  }
+  .video__iframe:last-child {
+    margin-left: auto;
+  }
+}

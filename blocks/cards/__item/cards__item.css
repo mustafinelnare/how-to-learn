@@ -9,3 +9,12 @@
 .cards__item:nth-of-type(3n) {
   margin-right: 0;
 }
+
+@media screen and (max-width: 1024px) {
+  .cards__item {
+    margin: 60px auto 0;
+  }
+  .cards__item:nth-of-type(3n) {
+    margin-right: auto;
+  }
+}

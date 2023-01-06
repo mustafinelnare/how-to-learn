@@ -2,8 +2,15 @@
   display: inline-block;
   opacity: 100%;
   transition: opacity 1s linear;
+  margin: 0 30px;
 }
 
 .resources__link:hover {
   opacity: 20%;
+}
+
+@media screen and (max-width: 880px) {
+  .resources__link {
+    margin: 20px auto 0;
+  }
 }

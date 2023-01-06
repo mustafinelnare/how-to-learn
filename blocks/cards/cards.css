@@ -1,6 +1,23 @@
 .cards {
   display: flex;
   flex-wrap: wrap;
-  width: 920px;
+  max-width: 920px;
   margin: 0 auto;
+}
+
+@media screen and (max-width: 1024px) {
+  .cards {
+    max-width: 920px;
+    justify-content: space-evenly;
+    margin: 0 auto;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .cards {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    margin: 0 auto;
+  }
 }

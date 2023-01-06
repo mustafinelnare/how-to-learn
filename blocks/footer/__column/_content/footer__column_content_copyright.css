@@ -4,3 +4,18 @@
   justify-content: space-between;
   flex-basis: 711px;
 }
+
+@media screen and (max-width: 1120px) {
+  .footer__column_content_copyright {
+    flex-basis: 0;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .footer__column_content_copyright {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    justify-content: flex-start;
+  }
+}

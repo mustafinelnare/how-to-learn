@@ -7,3 +7,15 @@
   margin: 70px auto 0 auto;
   z-index: 2;
 }
+
+@media screen and (max-width: 768px) {
+  .feynman__subtitle {
+    font-size: 30px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .feynman__subtitle {
+    font-size: 25px;
+  }
+}

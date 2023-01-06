@@ -6,3 +6,9 @@
   background-image: url(../../../images/logo_place_header.svg);
   z-index: 1;
 }
+
+@media screen and (max-width: 650px) {
+  .logo_place_header {
+    left: 20px;
+  }
+}

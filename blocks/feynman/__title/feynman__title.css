@@ -1,11 +1,23 @@
 .feynman__title {
   position: relative;
   text-align: center;
-  width: 648px;
+  max-width: 648px;
   line-height: 1.15;
   font-size: 120px;
   font-weight: 600;
   padding-top: 100px;
   margin: 0 auto;
   z-index: 2;
+}
+
+@media screen and (max-width: 768px) {
+  .feynman__title {
+    font-size: 80px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .feynman__title {
+    font-size: 60px;
+  }
 }

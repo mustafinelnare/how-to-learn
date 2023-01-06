@@ -3,3 +3,10 @@
   font-size: 24px;
   font-weight: 600;
 }
+
+@media screen and (max-width: 425px) {
+  .two-columns__span-accent {
+    font-size: 20px;
+    line-height: 27px;
+  }
+}
